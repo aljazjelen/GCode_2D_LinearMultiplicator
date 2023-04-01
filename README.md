@@ -12,4 +12,8 @@ Tool is user-friendly therefore steps are quite simple:
 
 
 Tested with LaserGRBL
+
 ![laser_grbl_pic](https://user-images.githubusercontent.com/18629679/229293314-906d0cc7-27d9-41ce-ae83-32f4c080796b.png)
+
+
+Please note, the tool has not been extensively tested. Please DO NOT just blindly use the tool when dealing with dangerous machines. 

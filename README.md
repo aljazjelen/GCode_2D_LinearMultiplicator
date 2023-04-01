@@ -1,5 +1,6 @@
-# GCode_2D_LinearMultiplicator
-This tool lets multiply your original GCode in X and Y direction
+# GCode 2D Linear Multiplicator
+This tool lets you multiply your original GCode in X and Y direction, creating equal copies with offset.
+It reduces need of a human presence during carving/engraving.
 
 ![tool_pic](https://user-images.githubusercontent.com/18629679/229293312-57bcb421-d946-4187-b3d1-7943e3dc1e24.png)
 
